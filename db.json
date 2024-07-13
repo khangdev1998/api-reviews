@@ -224,51 +224,6 @@
       "title": "Trải Nghiệm Tuyệt Vời",
       "content": "Curabitur auctor, arcu nec scelerisque egestas, purus ipsum auctor libero, sed convallis eros nunc eu dui.",
       "image": "https://feji.us/wz42t0"
-    },
-    {
-      "id": 26,
-      "author": "Nguyễn Văn Z",
-      "date": "5, Aug 2025",
-      "rating": 4,
-      "title": "Dịch Vụ Tốt",
-      "content": "Phasellus at libero at metus egestas scelerisque. Praesent consectetur semper mi, id dignissim erat congue eget.",
-      "image": "https://feji.us/wz42t0"
-    },
-    {
-      "id": 27,
-      "author": "Trần Thị AA",
-      "date": "1, Aug 2025",
-      "rating": 5,
-      "title": "Tuyệt Vời",
-      "content": "Integer sit amet augue vel orci luctus feugiat. Suspendisse potenti. Nullam hendrerit, sapien ac interdum suscipit, dui sapien interdum nisi, et consectetur metus urna vel odio.",
-      "image": "https://feji.us/wz42t0"
-    },
-    {
-      "id": 28,
-      "author": "Lê Văn BB",
-      "date": "28, Jul 2025",
-      "rating": 3,
-      "title": "Tạm Được",
-      "content": "Fusce vitae eros eget justo pharetra hendrerit ut nec libero. Donec id metus velit. Cras efficitur urna nec lectus facilisis, a consectetur elit vestibulum.",
-      "image": "https://feji.us/wz42t0"
-    },
-    {
-      "id": 29,
-      "author": "Phạm Thị CC",
-      "date": "25, Jul 2025",
-      "rating": 4,
-      "title": "Hài Lòng",
-      "content": "Sed euismod, lacus id luctus tempor, justo sapien vehicula magna, nec ullamcorper eros arcu eu lectus. Vivamus ut erat nec justo posuere accumsan in eu mauris.",
-      "image": "https://feji.us/wz42t0"
-    },
-    {
-      "id": 30,
-      "author": "Vũ Văn DD",
-      "date": "20, Jul 2025",
-      "rating": 5,
-      "title": "Trải Nghiệm Đáng Nhớ",
-      "content": "Ut accumsan, metus sit amet vestibulum venenatis, felis erat ultricies leo, id tincidunt ligula eros eget nunc. Vivamus at commodo felis.",
-      "image": "https://feji.us/wz42t0"
     }
   ]
 }
