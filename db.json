@@ -1,229 +1,227 @@
-{
-  "reviews": [
-    {
-      "id": 1,
-      "author": "Nguyễn Văn A",
-      "date": "25, Nov 2025",
-      "rating": 5,
-      "title": "Trải Nghiệm Tuyệt Vời",
-      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac risus a risus elementum vehicula. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean tristique nisl nec fermentum eleifend. Fusce tincidunt, tortor a elementum vehicula, magna ligula iaculis lacus, vel feugiat velit felis a metus.",
-      "image": "https://feji.us/wz42t0"
-    },
-    {
-      "id": 2,
-      "author": "Trần Thị B",
-      "date": "20, Nov 2025",
-      "rating": 4,
-      "title": "Dịch Vụ Tốt",
-      "content": "Phasellus vel elit at ligula placerat varius. Curabitur malesuada nulla sed libero porttitor, vitae bibendum odio tristique. Nulla facilisi. Sed at massa nisl.",
-      "image": "https://feji.us/wz42t0"
-    },
-    {
-      "id": 3,
-      "author": "Lê Văn C",
-      "date": "15, Nov 2025",
-      "rating": 5,
-      "title": "Tuyệt Vời",
-      "content": "Integer sit amet augue vel orci luctus feugiat. Suspendisse potenti. Nullam hendrerit, sapien ac interdum suscipit, dui sapien interdum nisi, et consectetur metus urna vel odio.",
-      "image": "https://feji.us/wz42t0"
-    },
-    {
-      "id": 4,
-      "author": "Phạm Thị D",
-      "date": "10, Nov 2025",
-      "rating": 3,
-      "title": "Tạm Được",
-      "content": "Fusce vitae eros eget justo pharetra hendrerit ut nec libero. Donec id metus velit. Cras efficitur urna nec lectus facilisis, a consectetur elit vestibulum.",
-      "image": "https://feji.us/wz42t0"
-    },
-    {
-      "id": 5,
-      "author": "Vũ Văn E",
-      "date": "5, Nov 2025",
-      "rating": 4,
-      "title": "Hài Lòng",
-      "content": "Sed euismod, lacus id luctus tempor, justo sapien vehicula magna, nec ullamcorper eros arcu eu lectus. Vivamus ut erat nec justo posuere accumsan in eu mauris.",
-      "image": "https://feji.us/wz42t0"
-    },
-    {
-      "id": 6,
-      "author": "Nguyễn Văn F",
-      "date": "1, Nov 2025",
-      "rating": 5,
-      "title": "Trải Nghiệm Đáng Nhớ",
-      "content": "Ut accumsan, metus sit amet vestibulum venenatis, felis erat ultricies leo, id tincidunt ligula eros eget nunc. Vivamus at commodo felis.",
-      "image": "https://feji.us/wz42t0"
-    },
-    {
-      "id": 7,
-      "author": "Trần Thị G",
-      "date": "28, Oct 2025",
-      "rating": 4,
-      "title": "Dịch Vụ Tốt",
-      "content": "Suspendisse nec tortor erat. Curabitur ut elit vestibulum, venenatis libero ac, accumsan metus. Aliquam erat volutpat.",
-      "image": "https://feji.us/wz42t0"
-    },
-    {
-      "id": 8,
-      "author": "Lê Văn H",
-      "date": "25, Oct 2025",
-      "rating": 5,
-      "title": "Rất Tốt",
-      "content": "Nullam ut tincidunt elit, vel scelerisque odio. In hac habitasse platea dictumst. Nulla at turpis sed orci auctor auctor in non dolor.",
-      "image": "https://feji.us/wz42t0"
-    },
-    {
-      "id": 9,
-      "author": "Phạm Thị I",
-      "date": "20, Oct 2025",
-      "rating": 4,
-      "title": "Hài Lòng",
-      "content": "Mauris placerat risus quis neque vehicula, sit amet luctus nunc aliquet. Morbi dignissim quam quis est gravida, non dignissim nulla cursus.",
-      "image": "https://feji.us/wz42t0"
-    },
-    {
-      "id": 10,
-      "author": "Vũ Văn J",
-      "date": "15, Oct 2025",
-      "rating": 3,
-      "title": "Cần Cải Thiện",
-      "content": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nullam a mi ipsum. Aliquam erat volutpat.",
-      "image": "https://feji.us/wz42t0"
-    },
-    {
-      "id": 11,
-      "author": "Nguyễn Văn K",
-      "date": "10, Oct 2025",
-      "rating": 5,
-      "title": "Tuyệt Vời",
-      "content": "Etiam vulputate sapien nec ligula scelerisque, in condimentum arcu interdum. Duis id metus id leo congue facilisis.",
-      "image": "https://feji.us/wz42t0"
-    },
-    {
-      "id": 12,
-      "author": "Trần Thị L",
-      "date": "5, Oct 2025",
-      "rating": 4,
-      "title": "Dịch Vụ Chất Lượng",
-      "content": "Nunc ut urna et dui tincidunt eleifend. Maecenas non lorem ligula. Integer id dui eu risus accumsan convallis.",
-      "image": "https://feji.us/wz42t0"
-    },
-    {
-      "id": 13,
-      "author": "Lê Văn M",
-      "date": "1, Oct 2025",
-      "rating": 5,
-      "title": "Trải Nghiệm Tuyệt Vời",
-      "content": "Curabitur auctor, arcu nec scelerisque egestas, purus ipsum auctor libero, sed convallis eros nunc eu dui.",
-      "image": "https://feji.us/wz42t0"
-    },
-    {
-      "id": 14,
-      "author": "Phạm Thị N",
-      "date": "28, Sep 2025",
-      "rating": 4,
-      "title": "Dịch Vụ Tốt",
-      "content": "Phasellus at libero at metus egestas scelerisque. Praesent consectetur semper mi, id dignissim erat congue eget.",
-      "image": "https://feji.us/wz42t0"
-    },
-    {
-      "id": 15,
-      "author": "Vũ Văn O",
-      "date": "25, Sep 2025",
-      "rating": 5,
-      "title": "Tuyệt Vời",
-      "content": "Integer sit amet augue vel orci luctus feugiat. Suspendisse potenti. Nullam hendrerit, sapien ac interdum suscipit, dui sapien interdum nisi, et consectetur metus urna vel odio.",
-      "image": "https://feji.us/wz42t0"
-    },
-    {
-      "id": 16,
-      "author": "Nguyễn Văn P",
-      "date": "20, Sep 2025",
-      "rating": 3,
-      "title": "Tạm Được",
-      "content": "Fusce vitae eros eget justo pharetra hendrerit ut nec libero. Donec id metus velit. Cras efficitur urna nec lectus facilisis, a consectetur elit vestibulum.",
-      "image": "https://feji.us/wz42t0"
-    },
-    {
-      "id": 17,
-      "author": "Trần Thị Q",
-      "date": "15, Sep 2025",
-      "rating": 4,
-      "title": "Hài Lòng",
-      "content": "Sed euismod, lacus id luctus tempor, justo sapien vehicula magna, nec ullamcorper eros arcu eu lectus. Vivamus ut erat nec justo posuere accumsan in eu mauris.",
-      "image": "https://feji.us/wz42t0"
-    },
-    {
-      "id": 18,
-      "author": "Lê Văn R",
-      "date": "10, Sep 2025",
-      "rating": 5,
-      "title": "Trải Nghiệm Đáng Nhớ",
-      "content": "Ut accumsan, metus sit amet vestibulum venenatis, felis erat ultricies leo, id tincidunt ligula eros eget nunc. Vivamus at commodo felis.",
-      "image": "https://feji.us/wz42t0"
-    },
-    {
-      "id": 19,
-      "author": "Phạm Thị S",
-      "date": "5, Sep 2025",
-      "rating": 4,
-      "title": "Dịch Vụ Tốt",
-      "content": "Suspendisse nec tortor erat. Curabitur ut elit vestibulum, venenatis libero ac, accumsan metus. Aliquam erat volutpat.",
-      "image": "https://feji.us/wz42t0"
-    },
-    {
-      "id": 20,
-      "author": "Vũ Văn T",
-      "date": "1, Sep 2025",
-      "rating": 5,
-      "title": "Rất Tốt",
-      "content": "Nullam ut tincidunt elit, vel scelerisque odio. In hac habitasse platea dictumst. Nulla at turpis sed orci auctor auctor in non dolor.",
-      "image": "https://feji.us/wz42t0"
-    },
-    {
-      "id": 21,
-      "author": "Nguyễn Văn U",
-      "date": "28, Aug 2025",
-      "rating": 4,
-      "title": "Hài Lòng",
-      "content": "Mauris placerat risus quis neque vehicula, sit amet luctus nunc aliquet. Morbi dignissim quam quis est gravida, non dignissim nulla cursus.",
-      "image": "https://feji.us/wz42t0"
-    },
-    {
-      "id": 22,
-      "author": "Trần Thị V",
-      "date": "25, Aug 2025",
-      "rating": 3,
-      "title": "Cần Cải Thiện",
-      "content": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nullam a mi ipsum. Aliquam erat volutpat.",
-      "image": "https://feji.us/wz42t0"
-    },
-    {
-      "id": 23,
-      "author": "Lê Văn W",
-      "date": "20, Aug 2025",
-      "rating": 5,
-      "title": "Tuyệt Vời",
-      "content": "Etiam vulputate sapien nec ligula scelerisque, in condimentum arcu interdum. Duis id metus id leo congue facilisis.",
-      "image": "https://feji.us/wz42t0"
-    },
-    {
-      "id": 24,
-      "author": "Phạm Thị X",
-      "date": "15, Aug 2025",
-      "rating": 4,
-      "title": "Dịch Vụ Chất Lượng",
-      "content": "Nunc ut urna et dui tincidunt eleifend. Maecenas non lorem ligula. Integer id dui eu risus accumsan convallis.",
-      "image": "https://feji.us/wz42t0"
-    },
-    {
-      "id": 25,
-      "author": "Vũ Văn Y",
-      "date": "10, Aug 2025",
-      "rating": 5,
-      "title": "Trải Nghiệm Tuyệt Vời",
-      "content": "Curabitur auctor, arcu nec scelerisque egestas, purus ipsum auctor libero, sed convallis eros nunc eu dui.",
-      "image": "https://feji.us/wz42t0"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "author": "Nguyễn Thành Nam",
+    "date": "25, Nov 2025",
+    "rating": 5,
+    "title": "Trải Nghiệm Tuyệt Vời",
+    "content": "Rất hài lòng với dịch vụ. Nhân viên nhiệt tình, không gian sạch sẽ và thoải mái. Sẽ quay lại lần sau để trải nghiệm thêm nhiều dịch vụ khác nữa. Cảm ơn các bạn.",
+    "image": "https://feji.us/wz42t0"
+  },
+  {
+    "id": 2,
+    "author": "Trần Thị Hạnh",
+    "date": "20, Nov 2025",
+    "rating": 4,
+    "title": "Dịch Vụ Tốt",
+    "content": "Dịch vụ tốt, nhân viên thân thiện và chuyên nghiệp. Tuy nhiên, có thể cải thiện một số điểm nhỏ để tốt hơn. Sẽ quay lại trong tương lai gần và giới thiệu cho bạn bè.",
+    "image": "https://feji.us/wz42t0"
+  },
+  {
+    "id": 3,
+    "author": "Lê Văn Khải",
+    "date": "15, Nov 2025",
+    "rating": 5,
+    "title": "Tuyệt Vời",
+    "content": "Dịch vụ tuyệt vời. Mọi thứ đều hoàn hảo từ chất lượng đến phục vụ. Nhân viên thân thiện, nhiệt tình và luôn sẵn sàng hỗ trợ khách hàng. Rất đáng giá tiền.",
+    "image": "https://feji.us/wz42t0"
+  },
+  {
+    "id": 4,
+    "author": "Phạm Thị Huyền",
+    "date": "10, Nov 2025",
+    "rating": 3,
+    "title": "Tạm Được",
+    "content": "Tạm được, không có gì đặc biệt. Dịch vụ ổn nhưng có thể cải thiện hơn để thu hút khách hàng hơn. Nhân viên cần chuyên nghiệp và nhiệt tình hơn. Cảm ơn.",
+    "image": "https://feji.us/wz42t0"
+  },
+  {
+    "id": 5,
+    "author": "Vũ Văn Long",
+    "date": "5, Nov 2025",
+    "rating": 4,
+    "title": "Hài Lòng",
+    "content": "Hài lòng với dịch vụ. Nhân viên thân thiện, phục vụ tốt và chuyên nghiệp. Không gian sạch sẽ, thoải mái. Sẽ quay lại và giới thiệu cho bạn bè và người thân.",
+    "image": "https://feji.us/wz42t0"
+  },
+  {
+    "id": 6,
+    "author": "Nguyễn Văn Minh",
+    "date": "1, Nov 2025",
+    "rating": 5,
+    "title": "Trải Nghiệm Đáng Nhớ",
+    "content": "Dịch vụ rất tốt. Nhân viên nhiệt tình và chuyên nghiệp. Sẽ quay lại và trải nghiệm thêm nhiều dịch vụ khác. Rất đáng giá tiền. Cảm ơn các bạn đã phục vụ tận tình.",
+    "image": "https://feji.us/wz42t0"
+  },
+  {
+    "id": 7,
+    "author": "Trần Thị Lan",
+    "date": "28, Oct 2025",
+    "rating": 4,
+    "title": "Dịch Vụ Tốt",
+    "content": "Rất tốt, sẽ giới thiệu bạn bè. Dịch vụ chuyên nghiệp và chất lượng. Nhân viên thân thiện, luôn sẵn sàng hỗ trợ khách hàng. Không gian sạch sẽ, thoải mái. Sẽ quay lại.",
+    "image": "https://feji.us/wz42t0"
+  },
+  {
+    "id": 8,
+    "author": "Lê Văn Hùng",
+    "date": "25, Oct 2025",
+    "rating": 5,
+    "title": "Rất Tốt",
+    "content": "Dịch vụ rất tốt. Không gian sạch sẽ, nhân viên thân thiện và chuyên nghiệp. Sẽ quay lại lần sau để trải nghiệm thêm nhiều dịch vụ khác nữa. Cảm ơn các bạn.",
+    "image": "https://feji.us/wz42t0"
+  },
+  {
+    "id": 9,
+    "author": "Phạm Thị Mai",
+    "date": "20, Oct 2025",
+    "rating": 4,
+    "title": "Hài Lòng",
+    "content": "Hài lòng với trải nghiệm. Nhân viên nhiệt tình và chuyên nghiệp. Không gian sạch sẽ, thoải mái. Sẽ quay lại lần sau để trải nghiệm thêm nhiều dịch vụ khác.",
+    "image": "https://feji.us/wz42t0"
+  },
+  {
+    "id": 10,
+    "author": "Vũ Văn Quang",
+    "date": "15, Oct 2025",
+    "rating": 2,
+    "title": "Không Hài Lòng",
+    "content": "Dịch vụ tệ, không quay lại. Nhân viên thiếu chuyên nghiệp, không thân thiện. Không gian không sạch sẽ. Cần cải thiện nhiều để thu hút khách hàng.",
+    "image": "https://feji.us/wz42t0"
+  },
+  {
+    "id": 11,
+    "author": "Nguyễn Văn Hùng",
+    "date": "10, Oct 2025",
+    "rating": 5,
+    "title": "Tuyệt Vời",
+    "content": "Rất hài lòng với dịch vụ. Nhân viên thân thiện và nhiệt tình. Không gian sạch sẽ, thoải mái. Sẽ quay lại lần sau để trải nghiệm thêm nhiều dịch vụ khác nữa.",
+    "image": "https://feji.us/wz42t0"
+  },
+  {
+    "id": 12,
+    "author": "Trần Thị Thu",
+    "date": "5, Oct 2025",
+    "rating": 4,
+    "title": "Dịch Vụ Chất Lượng",
+    "content": "Dịch vụ tốt, đáng giá tiền. Nhân viên nhiệt tình và chuyên nghiệp. Không gian sạch sẽ, thoải mái. Sẽ quay lại lần sau để trải nghiệm thêm nhiều dịch vụ khác nữa.",
+    "image": "https://feji.us/wz42t0"
+  },
+  {
+    "id": 13,
+    "author": "Lê Văn Phú",
+    "date": "1, Oct 2025",
+    "rating": 5,
+    "title": "Trải Nghiệm Tuyệt Vời",
+    "content": "Dịch vụ tuyệt vời, sẽ quay lại. Nhân viên chuyên nghiệp và nhiệt tình. Không gian sạch sẽ, thoải mái. Sẽ quay lại lần sau để trải nghiệm thêm nhiều dịch vụ khác.",
+    "image": "https://feji.us/wz42t0"
+  },
+  {
+    "id": 14,
+    "author": "Phạm Thị Thảo",
+    "date": "28, Sep 2025",
+    "rating": 4,
+    "title": "Dịch Vụ Tốt",
+    "content": "Hài lòng với dịch vụ. Nhân viên thân thiện và nhiệt tình. Không gian sạch sẽ, thoải mái. Sẽ quay lại lần sau để trải nghiệm thêm nhiều dịch vụ khác.",
+    "image": "https://feji.us/wz42t0"
+  },
+  {
+    "id": 15,
+    "author": "Vũ Văn Đạt",
+    "date": "25, Sep 2025",
+    "rating": 5,
+    "title": "Tuyệt Vời",
+    "content": "Dịch vụ rất tốt, đáng tiền. Nhân viên thân thiện và nhiệt tình. Không gian sạch sẽ, thoải mái. Sẽ quay lại lần sau để trải nghiệm thêm nhiều dịch vụ khác.",
+    "image": "https://feji.us/wz42t0"
+  },
+  {
+    "id": 16,
+    "author": "Nguyễn Văn Tài",
+    "date": "20, Sep 2025",
+    "rating": 3,
+    "title": "Tạm Được",
+    "content": "Dịch vụ ổn, không quá đặc biệt. Nhân viên cần cải thiện để chuyên nghiệp hơn. Không gian sạch sẽ nhưng cần đầu tư thêm. Cảm ơn các bạn.",
+    "image": "https://feji.us/wz42t0"
+  },
+  {
+    "id": 17,
+    "author": "Trần Thị Ngọc",
+    "date": "15, Sep 2025",
+    "rating": 4,
+    "title": "Hài Lòng",
+    "content": "Dịch vụ tốt, sẽ quay lại. Nhân viên nhiệt tình và chuyên nghiệp. Không gian sạch sẽ, thoải mái. Sẽ quay lại lần sau để trải nghiệm thêm nhiều dịch vụ khác.",
+    "image": "https://feji.us/wz42t0"
+  },
+  {
+    "id": 18,
+    "author": "Lê Văn Bình",
+    "date": "10, Sep 2025",
+    "rating": 5,
+    "title": "Trải Nghiệm Đáng Nhớ",
+    "content": "Dịch vụ tuyệt vời, đáng giá tiền. Nhân viên chuyên nghiệp và nhiệt tình. Không gian sạch sẽ, thoải mái. Sẽ quay lại lần sau để trải nghiệm thêm nhiều dịch vụ.",
+    "image": "https://feji.us/wz42t0"
+  },
+  {
+    "id": 19,
+    "author": "Phạm Thị Thanh",
+    "date": "5, Sep 2025",
+    "rating": 4,
+    "title": "Dịch Vụ Tốt",
+    "content": "Hài lòng với dịch vụ. Nhân viên thân thiện và nhiệt tình. Không gian sạch sẽ, thoải mái. Sẽ quay lại lần sau để trải nghiệm thêm nhiều dịch vụ khác.",
+    "image": "https://feji.us/wz42t0"
+  },
+  {
+    "id": 20,
+    "author": "Vũ Văn Khoa",
+    "date": "1, Sep 2025",
+    "rating": 5,
+    "title": "Rất Tốt",
+    "content": "Dịch vụ rất tốt, sẽ quay lại. Nhân viên nhiệt tình và chuyên nghiệp. Không gian sạch sẽ, thoải mái. Sẽ quay lại lần sau để trải nghiệm thêm nhiều dịch vụ khác.",
+    "image": "https://feji.us/wz42t0"
+  },
+  {
+    "id": 21,
+    "author": "Nguyễn Văn Quý",
+    "date": "28, Aug 2025",
+    "rating": 4,
+    "title": "Hài Lòng",
+    "content": "Dịch vụ tốt, đáng tiền. Nhân viên nhiệt tình và chuyên nghiệp. Không gian sạch sẽ, thoải mái. Sẽ quay lại lần sau để trải nghiệm thêm nhiều dịch vụ khác.",
+    "image": "https://feji.us/wz42t0"
+  },
+  {
+    "id": 22,
+    "author": "Trần Thị Nguyệt",
+    "date": "25, Aug 2025",
+    "rating": 2,
+    "title": "Rất Tệ",
+    "content": "Dịch vụ rất tệ, không quay lại. Nhân viên không thân thiện và thiếu chuyên nghiệp. Không gian không sạch sẽ. Cần cải thiện nhiều để thu hút khách hàng hơn.",
+    "image": "https://feji.us/wz42t0"
+  },
+  {
+    "id": 23,
+    "author": "Lê Văn Hảo",
+    "date": "20, Aug 2025",
+    "rating": 5,
+    "title": "Tuyệt Vời",
+    "content": "Rất hài lòng với dịch vụ. Nhân viên thân thiện và chuyên nghiệp. Không gian sạch sẽ, thoải mái. Sẽ quay lại lần sau để trải nghiệm thêm nhiều dịch vụ khác.",
+    "image": "https://feji.us/wz42t0"
+  },
+  {
+    "id": 24,
+    "author": "Phạm Thị Lệ",
+    "date": "15, Aug 2025",
+    "rating": 4,
+    "title": "Dịch Vụ Chất Lượng",
+    "content": "Dịch vụ tốt, đáng tiền. Nhân viên nhiệt tình và chuyên nghiệp. Không gian sạch sẽ, thoải mái. Sẽ quay lại lần sau để trải nghiệm thêm nhiều dịch vụ khác.",
+    "image": "https://feji.us/wz42t0"
+  },
+  {
+    "id": 25,
+    "author": "Vũ Văn Tiến",
+    "date": "10, Aug 2025",
+    "rating": 5,
+    "title": "Trải Nghiệm Tuyệt Vời",
+    "content": "Dịch vụ tuyệt vời, sẽ quay lại. Nhân viên chuyên nghiệp và nhiệt tình. Không gian sạch sẽ, thoải mái. Sẽ quay lại lần sau để trải nghiệm thêm nhiều dịch vụ khác.",
+    "image": "https://feji.us/wz42t0"
+  }
+]
